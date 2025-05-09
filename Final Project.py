@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 
 # --- Documentation String ---
 """
-Name: Your Name
-CS230: Section XXX
+Name: Alejandro Gomez M
+CS230: 230-5
 Data: Top 2000 Global Companies
-URL: [Add Streamlit Cloud link here if deployed]
+URL: https://cs230-final-project-jwzgrzy9xb3gzfxdxw3bv9.streamlit.app/
 
 Description:
 This program is an interactive web app for exploring the Top 2000 Global Companies dataset.
