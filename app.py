@@ -6,11 +6,11 @@ import matplotlib.pyplot as plt
 # --- Documentation String ---
 """
 Name: Alejandro Gomez M
-""
+
 CS230: Section 5
-""
+
 Data: Top 2000 Global Companies
-""
+
 
 Description:
 This Streamlit app provides an interactive and visual way to explore the world’s 2,000 largest companies using real-world financial and geographic data. 
