@@ -6,14 +6,20 @@ import matplotlib.pyplot as plt
 # --- Documentation String ---
 """
 Name: Alejandro Gomez M
-CS230: 230-5
+""
+CS230: Section 5
+""
 Data: Top 2000 Global Companies
-URL: https://cs230-final-project-jwzgrzy9xb3gzfxdxw3bv9.streamlit.app/
+""
 
 Description:
-This program is an interactive web app for exploring the Top 2000 Global Companies dataset.
-Users can filter and visualize companies by country, continent, or financial metrics (sales, profit, market value).
-It includes charts and a world map displaying company data.
+This Streamlit app provides an interactive and visual way to explore the world’s 2,000 largest companies using real-world financial and geographic data. 
+Users can filter and analyze companies by continent, country, and financial metrics such as sales, profits, assets, and market value. The app includes 
+Dynamic charts and a global map allow users to visually compare performance and locations of major companies worldwide.
+
+Whether you're interested in finding the most profitable companies in Asia, visualizing the relationship between assets and market value, or just curious 
+about where global corporate giants are based, this tool offers an engaging and informative experience. The dashboard is designed to be clean, intuitive, 
+and fully interactive, making it perfect for students, analysts, or anyone curious about corporate power on a global scale.
 """
 
 # --- Load Data ---
